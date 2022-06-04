@@ -8,7 +8,8 @@ Kelas: TI.20.B.1<br>
 ## PHP dan Database MySQl
 <hr>
 SOAL PRATIKUM<br>
-![Gambar](Gambar/Gambar1.png)<br>
+
+![Gambar](Gambar/Gambar1.png))<br>
 Disini saya akan mengerjakan tugas untuk memahami dan membuat program CRUD menggunakan PHP.<br>
 
 ## 1. Menjalankan Server
